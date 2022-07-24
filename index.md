@@ -49,4 +49,4 @@ Saransh Gupta (IBM Research)
 Vijaykrishnan Narayanan (Penn State University)
 
 ### Contact
-kvswamin@us.ibm.com
+kvswamin@us.ibm.com, saransh@ibm.com
