@@ -35,12 +35,17 @@ Submissions may be made in the form of a 4-page manuscript with the same formatt
 ## Important Deadlines
 
 Submission deadline: Sep 2nd, 2022
+
 Notification: Sep 15th, 2022 (Before the early registration deadline)
+
 Workshop date: Oct 8/9, 2022
 
 ## Organizers
+
 Karthik Swaminathan (IBM Research)
+
 Saransh Gupta (IBM Research)
+
 Vijaykrishnan Narayanan (Penn State University)
 
 ### Contact
