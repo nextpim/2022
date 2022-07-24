@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## About the Workshop
 
-You can use the [editor on GitHub](https://github.com/nextpim/2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Over the past decade or so, Processing in Memory (PIM) has evolved from single-cell demonstrations to large scale commercial deployment by leading processor and memory vendors. This workshop recognizes the pervasiveness of PIM across several application domains that form the backbone of computing systems today. It seeks to identify the successes, failures, and future opportunities for this technology as well as potentially new applications that will dictate the ongoing research and development in this field.  Additionally, the workshop will address the tool chain and runtimes to support the PIM deployment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Call for Papers
 
-### Markdown
+Possible topics of interest include, but not limited to
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Current and future application domains being impacted by PIM. Examples include:
+  - Several works in AI inferencing based on emerging memory technologies
+  - Security: Homomorphic encryption using in-memory computing
+  - Graph applications: Dense/sparse graph traversals, GCNs using PIM
+2. Overview of key real world PIM deployments
+  - Journey from device to system
+  - Key hardware and software innovations 
+  - Challenges in design, manufacture, and large-scale adoption
+3. Enhancements in programming methodologies
+  - Compilers, runtime, libraries enabling PIM
+  - Integration of PIM in existing software programming paradigms
+  - Domain-specific languages for optimizing PIM-based architectures
+4. Modeling performance, energy, reliability
+  - Useful tools and methodologies
+  - Measurement-based validation
+5. Future of PIM
+  - Reconfigurable conventional/PIM processors
+  - New computing paradigms (eg. stochastic computing, sparse/high-dimensional computing) facilitated by PIM
+  - Impact of new industry-standard coherent interconnect protocols like CXL/CCIX on the adoption and implementation of PIM
 
-```markdown
-Syntax highlighted code block
+Papers on research in flight with experimental verification in progress are welcome.
 
-# Header 1
-## Header 2
-### Header 3
+## Submission Details
 
-- Bulleted
-- List
+Submissions may be made in the form of a 4-page manuscript with the same formatting guidelines as the main conference ([https://pact22.cs.illinois.edu/submit.html](https://pact22.cs.illinois.edu/submit.html)). Selected submissions will be invited to deliver a 25 min presentation at the workshop  (incl. 5 mins for questions).
 
-1. Numbered
-2. List
+## Important Deadlines
 
-**Bold** and _Italic_ and `Code` text
+Submission deadline: Sep 2nd, 2022
+Notification: Sep 15th, 2022 (Before the early registration deadline)
+Workshop date: Oct 8/9, 2022
 
-[Link](url) and ![Image](src)
-```
+## Organizers
+Karthik Swaminathan (IBM Research)
+Saransh Gupta (IBM Research)
+Vijaykrishnan Narayanan (Penn State University)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nextpim/2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+kvswamin@us.ibm.com
