@@ -30,7 +30,7 @@ Papers on research in flight with experimental verification in progress are welc
 
 ## Submission Details
 
-Submissions may be made in the form of a 4-page manuscript with the same formatting guidelines as the main conference ([https://pact22.cs.illinois.edu/submit.html](https://pact22.cs.illinois.edu/submit.html)).
+Submissions may be made in the form of an extended abstract (up to two pages) with the same formatting guidelines as the main conference ([https://pact22.cs.illinois.edu/submit.html](https://pact22.cs.illinois.edu/submit.html)).
 
 Submission site: [https://easychair.org/conferences/?conf=nextpim2022](https://easychair.org/conferences/?conf=nextpim2022)
 
@@ -38,11 +38,11 @@ Selected submissions will be invited to deliver a 25 min presentation at the wor
 
 ## Important Deadlines
 
-Submission deadline: Sep 2nd, 2022
+Submission deadline: ~~Sep 2nd, 2022~~ Sept 15th, 2022
 
-Notification: Sep 15th, 2022 (Before the early registration deadline)
+Notification: ~~Sep 15th, 2022~~ Sept 22nd, 2022
 
-Workshop date: Oct 8/9, 2022
+Workshop date: Oct 9, 2022
 
 ## Organizers
 
