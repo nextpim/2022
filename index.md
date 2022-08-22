@@ -1,3 +1,4 @@
+
 ## About the Workshop
 
 Over the past decade or so, Processing in Memory (PIM) has evolved from single-cell demonstrations to large scale commercial deployment by leading processor and memory vendors. This workshop recognizes the pervasiveness of PIM across several application domains that form the backbone of computing systems today. It seeks to identify the successes, failures, and future opportunities for this technology as well as potentially new applications that will dictate the ongoing research and development in this field.  Additionally, the workshop will address the tool chain and runtimes to support the PIM deployment.
