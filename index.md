@@ -28,7 +28,7 @@ Papers on research in flight with experimental verification in progress are welc
 
 ## Submission Details
 
-Submissions may be made in the form of an extended abstract (up to two pages) with the same formatting guidelines as the main conference ([https://pact22.cs.illinois.edu/submit.html](https://pact22.cs.illinois.edu/submit.html)).
+Submissions may be made in the form of an extended abstract (up to two pages). While not required, we recommend that you use the same formatting guidelines as the main conference ([https://pact22.cs.illinois.edu/submit.html](https://pact22.cs.illinois.edu/submit.html)).
 
 Submission site: [https://easychair.org/conferences/?conf=nextpim2022](https://easychair.org/conferences/?conf=nextpim2022)
 
