@@ -37,9 +37,9 @@ Selected submissions will be invited to deliver a 25 min presentation at the wor
 
 ## Important Deadlines
 
-Submission deadline: ~~Sep 2nd, 2022~~ Sept 22th, 2022
+Submission deadline: ~~Sep 2nd, 2022~~ Sept 22nd, 2022
 
-Notification: ~~Sep 15th, 2022~~ Sept 26nd, 2022
+Notification: ~~Sep 15th, 2022~~ Sept 26th, 2022
 
 Workshop date: Oct 9, 2022
 
